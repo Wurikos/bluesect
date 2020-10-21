@@ -12,8 +12,9 @@ export default (() => {
 			<meta name={"description"} content={"Web site created using quarkly.io"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
 		</Helmet>
+		<Section background="--color-dark" />
 		<Section background="--color-secondary" />
-		<Section background="--color-green" />
 		<Section background="--color-darkL1" />
+		<Section background="--color-secondary" />
 	</Theme>;
 });
