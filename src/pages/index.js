@@ -13,5 +13,6 @@ export default (() => {
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
 		</Helmet>
 		<Section background="--color-primary" />
+		<Section background="--color-orange" />
 	</Theme>;
 });
