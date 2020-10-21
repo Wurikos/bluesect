@@ -14,5 +14,6 @@ export default (() => {
 		</Helmet>
 		<Section background="--color-primary" />
 		<Section background="--color-orange" />
+		<Section background="--color-green" />
 	</Theme>;
 });
